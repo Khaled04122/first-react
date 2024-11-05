@@ -9,7 +9,7 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-      <Route path='/' element={<Home name=" alhareth "/>}/>
+      <Route path='/' element={<Home name=" Muthana "/>}/>
       <Route path='news' element={<News/>}/>
       <Route path='counter' element={<Counter/>}/>
     </Routes>
